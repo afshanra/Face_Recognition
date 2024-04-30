@@ -1,9 +1,9 @@
-#Face Recognition for Attendee Management
-##Overview
+# Face Recognition for Attendee Management
+## Overview
 This project focuses on face recognition for attendee management, utilizing deep learning techniques to identify and count young actors' faces in a group photo. The project is based on a dataset obtained from [Large Age-Gap Face Verification Dataset](http://www.ivl.disco.unimib.it/activities/large-age-gap-face-verification/)
 , which contains young and adult faces of celebrities. The adult faces are removed to create a sub-dataset consisting only of young faces, which are then augmented to expand the dataset. The goal is to develop a system capable of predicting the identities of young actors in a group photo and counting the number of attendees.
 
-##Methodology
+## Methodology
 The project involves the following steps:
 
 Data Preprocessing: Removal of adult faces and augmentation of young faces to create a diverse dataset.
